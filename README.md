@@ -9,7 +9,7 @@
 
 <p align="center"> "Vi veri veniversum vivus vici." </p> 
 
-#
+
 
 <h2 align="center">🌐 | Social Media:</h2>
 
@@ -22,7 +22,7 @@
   </a>
 </div>
 
-#
+
 
 <h2 align="center">📚 | Technologies I'm Studying</h2>
 
@@ -40,7 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
-#
 
 <h2 align="center">📊 GitHub Stats: </h2>
 
@@ -50,11 +49,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victormendev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="130" alt="languages graph" /> <br>
   </div>
   
-#
 
   <div align="center">
   <h2> 🏆 | GitHub Trophies:</h2>
   <img src="https://github-profile-trophy.vercel.app?username=victormendev&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   </div>
 
-###
