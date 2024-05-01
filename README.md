@@ -1,4 +1,4 @@
-<h2 align="center">👋 Olá, colegas !</h2>
+<h2 align="center">👋 Olá, mundo !</h2>
 
 <p align="center">Sou um graduando em Engenharia de Software, com uma paixão profunda pela informática desde os meus 8 anos de idade. <br>Estou atualmente em busca de minha primeira oportunidade de emprego na área de Tecnologia da Informação. <br>Desde minha infância, desenvolvi um interesse e curiosidade profunda em compreender o funcionamento dos computadores e<br>em explorar as possibilidades de interação com eles. Esse gosto nasceu da minha relação próxima com o computador que foi<br>meu fiel amigo durante boa parte da minha infância.<br><br>Além disso, também amo as áreas como Inteligência Artificial e exploração espacial. Essas áreas despertam meu questionamento <br>sobre a existência de vida além de nosso planeta desafiando  nossa compreensão do universo. <br>Atualmente, estou dedicado ao estudo do desenvolvimento web, embora<br>esteja sempre aberto a novas oportunidades e direções que possam surgir.<br>Sou um excelente parceiro de estudos e estou disponível para ajudar <br>e ser ajudado em nossa jornada acadêmica e profissional.<br>Podem contar comigo sempre.</p>
 
@@ -11,7 +11,7 @@
 
 #
 
-<p align="center">🌐 | Social Media:</p>
+<h2 align="center">🌐 | Social Media:</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/victormendev/" target="_blank">
@@ -24,7 +24,7 @@
 
 #
 
-<p align="center">📚 | Technologies I'm Studying</p>
+<h2 align="center">📚 | Technologies I'm Studying</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
@@ -42,7 +42,7 @@
 
 #
 
-<p align="center">📊 GitHub Stats: </p>
+<h2 align="center">📊 GitHub Stats: </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victormendev&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
@@ -53,7 +53,7 @@
 #
 
   <div align="center">
-  <p> 🏆 | GitHub Trophies:</p>
+  <h2> 🏆 | GitHub Trophies:</h2>
   <img src="https://github-profile-trophy.vercel.app?username=victormendev&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   </div>
 
